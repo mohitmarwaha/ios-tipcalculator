@@ -27,6 +27,6 @@ The following **additional** features are implemented:
 
 Heres a walkthrough of implemented user stories:
 
-
+![alt tag](https://github.com/mohitmarwaha/ios-tipcalculator/blob/master/tippy.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
